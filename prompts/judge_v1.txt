@@ -1,0 +1,1 @@
+Grade the SYSTEM RESPONSE only against the supplied POLICY, CUSTOMER MESSAGE, and REFERENCE CHECKLIST. Do not reward length. Do not infer facts that are not written.
